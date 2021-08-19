@@ -1,7 +1,7 @@
 ---
 title: "git_00"
-author: "Your Name here"
-date: "Year 2020"
+author: "Paulo Poblete"
+date: "Year 2021"
 output: html_document
 ---
 
@@ -14,7 +14,7 @@ Our project will be done using several commits to the master branch.
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+<!--Put the first five lines of a poem by Lewis Carrol in this section!--> 
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
